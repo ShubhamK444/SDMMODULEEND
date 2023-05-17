@@ -1,0 +1,46 @@
+Title: Online Ticket Booking System For Travel
+
+Team: Direct Customer, Indirect customer, Architech, Bussiness Analysist, Technical team.
+
+Object:
+The online travel ticket booking system will provide the single paltform of ticket booking. Unless individuls step into the travel agent business to purchase the tickets and also to check the timming as in the previous. The launch of online tickets booking system solve this issue. 
+The online travel ticket booking will provide to book the tickets online and to search the available seats online from anywhere and any time.
+
+
+Scope:
+The customer can book online tickets for Airline tickets, bus tickets, train tickets from anywhere and anytime through system application.
+Customer can book ticket for anywhere and any time in India to travel all over the country.
+
+
+
+
+Functional requirement:
+
+Customers needs to do registration on the application through email and mobile no. and verification will be done through email
+ 
+After the registration process customer need to set username and passward for sign in for application.
+Customer can see the different traveling option like Airline tickets, bus tickets, train tickets.
+After selection of particular options among above they need to enter the city name from where you want travel to where you want to go(destination city name)
+\
+So customer can see the number of buses, flights, trains available with the date and and start time of journey and end time of journey with any othedetails(optional).
+
+After selecting the particular bus, flight, train they can see the number of seats available also the price according to the type of selected seat and after selection of seats customer needs to do payments to confirmation message on mobile as well as on email.
+Customer can select the different payment options like online transication via credit card, debit card, etc.
+If the payments failed the the neccessary post process should done smoothly like sending error message.
+
+Customer can cancel the tickets before the specified time of journey and refund will be done after deducting particular charges 
+customer can not able to cancel the certain tickets or after the specified time. 
+
+
+Organization managements can able monitoring or analaysis like how many tickets are booked in the particular time period for the each airline, bus,tain 
+  
+
+
+
+
+
+
+
+
+
+
